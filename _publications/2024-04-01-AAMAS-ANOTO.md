@@ -2,9 +2,9 @@
 title: "ANOTO: Improving Automated Negotiation via Offline-to-Online Reinforcement Learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-AAMAS-ANOTO
+permalink: /publication/2024-04-01-AAMAS-ANOTO
 excerpt: ''
-date: '2024'
+date: '2024-04-01'
 venue: 'AAMAS'
 slidesurl: 'https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2195.pdf'
 paperurl: 'https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2195.pdf'
