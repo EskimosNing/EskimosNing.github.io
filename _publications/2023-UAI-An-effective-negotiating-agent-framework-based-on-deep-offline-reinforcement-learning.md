@@ -2,7 +2,7 @@
 title: "An effective negotiating agent framework based on deep offline reinforcement learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-UAI-An effective negotiating agent framework based on deep offline reinforcement learning
+permalink: /publication/2023-UAI-An-effective-negotiating-agent-framework-based-on-deep-offline-reinforcement-learning
 excerpt: ''
 date: '2023'
 venue: 'UAI'
