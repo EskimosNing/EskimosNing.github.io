@@ -8,47 +8,47 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jianing ZHAO / Site Title"
+title                    : "Jianing ZHAO"
 title_separator          : "-"
 name                     : &name "Jianing ZHAO"
-description              : &description "personal description test"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "I'm now a postgraduate student in Tianjin University"
+url                      : https://eskimosning.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xxxx/xxx.github.io"
+repository               : "https://github.com/EskimosNing/EskimosNing.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.png" #头像
+  name             : "Jianing ZHAO"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postgraduate student in Tianjin University"
+  location         : "Tianjin, China"
+  employer         : "Tianjin University"
   uri              : # URL
-  email            : "zjn@example.org" 
+  email            : "zjn939533065@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://xxx"
+  googlescholar    : "https://scholar.google.com/citations?user=IrQI7ugAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://xxxx"
+  orcid            : ""
   semantic         : # URL
-  pubmed           : "https://xxxx"
+  pubmed           : ""
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

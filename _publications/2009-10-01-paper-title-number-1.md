@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "ANOTO: Improving Automated Negotiation via Offline-to-Online Reinforcement Learning"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
@@ -12,3 +12,11 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+@inproceedings{chen2024anoto,
+  title={ANOTO: Improving Automated Negotiation via Offline-to-Online Reinforcement Learning},
+  author={Chen, Siqi and Zhao, Jianing and Zhao, Kai and Weiss, Gerhard and Zhang, Fengyun and Su, Ran and Dong, Yang and Li, Daqian and Lei, Kaiyou},
+  booktitle={Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems},
+  pages={2195--2197},
+  year={2024}
+}
