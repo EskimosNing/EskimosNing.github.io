@@ -93,7 +93,8 @@ Skills
   * Python and PyTorch, C++,Java
   * Data structures & algorithms
   * Java
-* English & Mandarin
+* Language
+  * Mandarin & English
 * Hobbies
   * Certificate of Clarinet Proficiency (Level 9)
   * Swimming, Badminton
