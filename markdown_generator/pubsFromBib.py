@@ -24,7 +24,7 @@ import html
 import os
 import re
 
-proceedings_bib="bib/UAI2023.bib"
+proceedings_bib="output.bib"
 pubs_bib='bib/journal.bib'
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
@@ -37,7 +37,7 @@ publist = {
         
     },
     "journal":{
-        "file": "pubs.bib",
+        "file": pubs_bib,
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
