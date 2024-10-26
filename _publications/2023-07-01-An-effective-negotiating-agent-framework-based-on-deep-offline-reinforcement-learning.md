@@ -1,6 +1,7 @@
 ---
 title: "An effective negotiating agent framework based on deep offline reinforcement learning"
 collection: publications
+category: conferences
 permalink: /publication/2023-07-01-An-effective-negotiating-agent-framework-based-on-deep-offline-reinforcement-learning
 date: 2023-07-01
 venue: 'In the proceedings of Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence'
