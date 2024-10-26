@@ -66,9 +66,9 @@ Research Exeperience
 Research Papers & Working Papers
 ======
 * Master’s Graduation Thesis (In Preparation)
-  **Multi-Agent Reinforcement Learning-Based Multi-party Automated Negotiation Agents**
+  * **Multi-Agent Reinforcement Learning-Based Multi-party Automated Negotiation Agents**
 * Outstanding Undergraduate Graduation Thesis
-  **End-to-End Deep Learning Compiler Optimization with Integrated Data Preprocessing and Postprocessing**
+  * **End-to-End Deep Learning Compiler Optimization with Integrated Data Preprocessing and Postprocessing**
 
 Extracurriculars
 ======
