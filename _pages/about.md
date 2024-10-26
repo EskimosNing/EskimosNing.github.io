@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a student. My research interests include autonomous agents, multi-agent systems, reinforcement learning (RL), and game theory. 
+My research interests include autonomous agents, multi-agent systems, reinforcement learning (RL), and game theory. 
 
 Education
 ======
