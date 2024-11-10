@@ -28,14 +28,14 @@ proceedings_bib="output.bib"
 pubs_bib='bib/journal.bib'
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : proceedings_bib,
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+    # "proceeding": {
+    #     "file" : proceedings_bib,
+    #     "venuekey": "booktitle",
+    #     "venue-pretext": "In the proceedings of ",
+    #     "collection" : {"name":"publications",
+    #                     "permalink":"/publication/"}
         
-    },
+    # },
     "journal":{
         "file": pubs_bib,
         "venuekey" : "journal",
