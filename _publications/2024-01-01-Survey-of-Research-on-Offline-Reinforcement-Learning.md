@@ -1,6 +1,7 @@
 ---
 title: "Survey of Research on Offline Reinforcement Learning"
 collection: publications
+category: journals
 permalink: /publication/2024-01-01-Survey-of-Research-on-Offline-Reinforcement-Learning
 date: 2024-01-01
 venue: 'Radio Communications Technology, China'
