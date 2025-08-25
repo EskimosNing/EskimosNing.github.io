@@ -15,13 +15,14 @@ Education
 * M.S. in Electronic Information, Tianjin University, 2022-2025
 * B.S. in Software Engineering, Jilin University, 2018-2022
 
-<!-- Work experience
+Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
+* Apr 2025-Sep 2025: Research Assistant
+  * The Hong Kong Polytechnic University
+  * Department of Computing
+  * Supervisor: Jiannong Cao
+  * 
+<!-- Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
