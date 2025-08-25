@@ -14,6 +14,10 @@ Education
 * M.S. in Electronic and Information Engineering, Tianjin  University, 2022-2025
 * B.S. in Software Engineering, Jilin University, 2018-2022
 
+Work Exeperience
+======
+*  Research Assistant in COMP, The Hong Kong Polytechnic University, 04.2025-09.2025
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
