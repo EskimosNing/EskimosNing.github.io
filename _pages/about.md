@@ -14,6 +14,7 @@ Education
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * M.S. in Electronic Information, Tianjin University, 2022-2025
 * B.S. in Software Engineering, Jilin University, 2018-2022
+* PhD in Computer Science, King's College London, 2025-Now
 
 Work experience
 ======
