@@ -13,6 +13,7 @@ Education
 ======
 * M.S. in Electronic and Information Engineering, Tianjin  University, 2022-2025
 * B.S. in Software Engineering, Jilin University, 2018-2022
+* PhD in Computer Science, King's College London, 2025-Now
 
 Work Exeperience
 ======
